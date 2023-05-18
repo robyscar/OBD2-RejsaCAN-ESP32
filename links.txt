@@ -1,3 +1,4 @@
+https://www.cnx-software.com/2023/05/12/rejsacan-esp32-s3-can-bus-board-arduino-car-hacking/
 https://www.cnx-software.com/2022/01/03/esp32-can-board-fits-into-obd-ii-dongle-supports-auto-shutdown/
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/api-reference/peripherals/twai.html
 https://www.cnx-software.com/2021/09/09/esp32-arduino-2-0-0-esp32-c3-esp32-s2-support/
